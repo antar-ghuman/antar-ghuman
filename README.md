@@ -5,7 +5,7 @@ Hello👋🏽, I'm Antarpreet Kaur Ghuman
 
 💞️ Looking for full-time Machine Learning/Software Engineer roles.
 
-📫 Reach me @antarpre@buffalo.edu
+📫 Reach me @ antarghuman82@gmail.com
 
 Languages and Tools:
               
