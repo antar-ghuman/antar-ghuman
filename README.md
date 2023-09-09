@@ -8,4 +8,7 @@ Hello👋🏽, I'm Antarpreet Kaur Ghuman
 📫 Reach me at antarghuman82@gmail.com
 
 Languages and Tools:
+
+<i class="devicon-docker-plain"></i>
+          
               
