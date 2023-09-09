@@ -1,4 +1,4 @@
-Hello👋🏽, I'm Antarpreet Kaur Ghuman
+**Hello👋🏽, I'm Antarpreet Kaur Ghuman**
 
 
 🔭 Currently pursuing MS in Artificial Intelligence and Robotics at Unviversity at Buffalo, SUNY.
@@ -7,8 +7,13 @@ Hello👋🏽, I'm Antarpreet Kaur Ghuman
 
 📫 Reach me at antarghuman82@gmail.com
 
-Languages and Tools:
+**Technical Skills:**
+• Languages & Databases: Java, Python, HTML/CSS, MySQL, PostgreSQL
+• Frameworks & Libraries: Kubernetes, Docker, Helm, RKE2, PKS, PCF, JUnit, Linux, Kafka, ElasticSearch,
+RESTful APIs, Gitlab, Spring Boot, Cucumber
+• AI/ML Techniques and Image Processing: Linear Regression, Logistic Regression, Decision Trees, Random
+Forests, SVM, K-Means, Neural Networks, CNNs, RNNs, Object Detection (YOLO, SSD), Face Recognition
 
-<i class="devicon-docker-plain"></i>
+
           
               
