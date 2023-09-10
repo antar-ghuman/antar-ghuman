@@ -14,8 +14,7 @@
 • Frameworks & Libraries: Kubernetes, Docker, Helm, RKE2, PKS, PCF, JUnit, Linux, Kafka, ElasticSearch,
 RESTful APIs, Gitlab, Spring Boot, Cucumber
 
-• AI/ML Techniques and Image Processing: Linear Regression, Logistic Regression, Decision Trees, Random
-Forests, SVM, K-Means, Neural Networks, CNNs, RNNs, Object Detection (YOLO, SSD), Face Recognition
+• AI/ML Libraries and Image Processing: OpenCV, TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, Numpy
 
 
           
