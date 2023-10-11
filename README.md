@@ -15,7 +15,9 @@
 
 • Frameworks & Libraries: Kubernetes, Kubectl, Docker, Helm, RKE2, PKS, PCF, AWS, JUnit, Linux, Kafka, ElasticSearch, Web Services, SOA, REST APIs, Gitlab, Spring Boot, ROS, Matplotlib, AWS, Matlab
 
-• AI/ML Libraries and Image Processing: OpenCV, TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, Numpy • Project Management: Project Planning, Task Management, SCRUM & Agile Methodology
+• AI/ML Libraries and Image Processing: OpenCV, TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, Numpy 
+
+• Project Management: Project Planning, Task Management, SCRUM & Agile Methodology
 
 
           
