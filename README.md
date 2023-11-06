@@ -3,7 +3,7 @@
 
 🔭 Currently pursuing MS in Artificial Intelligence and Robotics at Unviversity at Buffalo, SUNY.
 
-🔭 Bachelor of Engineering in Computer Science(Cloud Computing) - Honors:First Division with Distinction , Chandigarh University
+🔭 Bachelor of Engineering in Computer Science(Cloud Computing) - Honors:First Division with Distinction, Chandigarh University
 
 💞️ Looking for full-time Machine Learning/Software Engineer roles.
 
