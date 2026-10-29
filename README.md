@@ -1,9 +1,9 @@
 **Hello👋🏽, I'm Antarpreet Kaur Ghuman**
 
 
-🔭 MS in Artificial Intelligence and Robotics at University at Buffalo, SUNY.
+🔭 MS in Artificial Intelligence and Robotics.
 
-🔭 Bachelor of Engineering in Computer Science(Cloud Computing) - Honors, Chandigarh University
+🔭 Bachelor of Engineering in Computer Science(Cloud Computing).
 
 
 ## 🛠️ Open Source Contributions
