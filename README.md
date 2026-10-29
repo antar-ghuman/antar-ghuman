@@ -1,7 +1,7 @@
 **Hello👋🏽, I'm Antarpreet Kaur Ghuman**
 
 
-🔭 MS in Artificial Intelligence and Robotics.
+🔭 Master's in Artificial Intelligence and Robotics.
 
 🔭 Bachelor of Engineering in Computer Science(Cloud Computing).
 
